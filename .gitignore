@@ -1,0 +1,7 @@
+!.gitignore
+!.gitkeep
+.idea/*
+.idea
+.gradle
+*.class
+*.tmp
